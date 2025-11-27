@@ -25,7 +25,8 @@
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/annie-zhang-716826247](https://www.linkedin.com/in/annie-zhang-716826247/?locale=en))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annie-zhang-716826247/)
+
 
 ---
 
@@ -79,10 +80,10 @@
 
 ### 📈 What I’m Working On
 - 📉 **Customer Churn Prediction** — end-to-end ML pipelines, feature engineering, ensemble methods  
-- 🌸 **Floral Arrangement App** — Java OOP architecture + JSON persistence  
 - ⏱ **FocusLink Productivity Platform** — React + FastAPI + Chrome Extension (MV3)  
 - 🧪 **STAT/ML Research** — clustering, PCA, bootstrap inference, design of experiments  
 - 📷 **Crabapple Color Quantification** — RA project computing biological color metrics using R & Python
+- 📝 **Full-Stack To-Do System** — Chrome Extension + React frontend + REST API backend (Node/FastAPI), integrated with the OpenAI API for smart task prompts and automated suggestions  
 
 ---
 
