@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zhichen (Annie) 👋</h1>
+<h1 align="center">Hi, I'm Annie 👋</h1>
 
 <p align="center">Fourth-year Statistics Student at UBC | Software Engineering · Machine Learning · Full-Stack Development</p>
 
@@ -25,7 +25,7 @@
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/annie-zhang-716826247)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/annie-zhang-716826247](https://www.linkedin.com/in/annie-zhang-716826247/?locale=en))
 
 ---
 
